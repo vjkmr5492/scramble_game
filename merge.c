@@ -1,4 +1,4 @@
-//Insertion Sort
+//Merge Sort
 
 #include <stdio.h>
 
